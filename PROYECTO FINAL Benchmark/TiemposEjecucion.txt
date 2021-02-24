@@ -1,0 +1,28 @@
+ARREGLO DE LONGITUD 10000
+Metodo Burbuja, Tiempo de ejecución: 0.482000 s. Iteraciones: 10000
+ARREGLO DE LONGITUD 100
+Metodo QuickSort, Tiempo de ejecución: 0.000000 s. Iteraciones: 1
+ARREGLO DE LONGITUD 100
+Metodo Burbuja, Tiempo de ejecución: 0.000000 s. Iteraciones: 100
+Metodo de Seleccion, Tiempo de ejecución: 0.000000 s. Iteraciones: 99
+Metodo de Insercion, Tiempo de ejecución: 0.000000 s. Iteraciones: 99
+Metodo Shell, Tiempo de ejecución: 0.000000 s. Iteraciones: 6
+Metodo QuickSort, Tiempo de ejecución: 0.086000 s. Iteraciones: 20
+ARREGLO DE LONGITUD 16
+Metodo Shell, Tiempo de ejecución: 0.000000 s. Iteraciones: 4
+ARREGLO DE LONGITUD 10000
+Metodo QuickSort, Tiempo de ejecución: 0.002000 s. Iteraciones: 2
+ARREGLO DE LONGITUD 10000
+Metodo QuickSort, Tiempo de ejecución: 0.000000 s. Iteraciones: 3
+Metodo Shell, Tiempo de ejecución: 0.003000 s. Iteraciones: 13
+ARREGLO DE LONGITUD 10000
+Metodo QuickSort, Tiempo de ejecución: 0.000000 s. Iteraciones: 11
+Metodo Shell, Tiempo de ejecución: 0.003000 s. Iteraciones: 13
+ARREGLO DE LONGITUD 5
+Metodo QuickSort, Tiempo de ejecución: 0.000000 s. Iteraciones: 2
+Metodo Shell, Tiempo de ejecución: 0.000000 s. Iteraciones: 2
+ARREGLO DE LONGITUD 100
+Metodo QuickSort, Tiempo de ejecución: 0.000000 s. Iteraciones: 4
+Metodo Shell, Tiempo de ejecución: 0.000000 s. Iteraciones: 6
+ARREGLO DE LONGITUD 200
+Metodo QuickSort, Tiempo de ejecución: 0.000000 s. Iteraciones: 4
